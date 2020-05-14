@@ -23,3 +23,7 @@ I have used VGG19 as my baseline model. The features required to obtain the styl
 If you have any queries, feel free to ask them. I'll do my best to answer. :)
 
 Happy Learning People ! Keep chasing your dreams ! ⭐️
+
+
+## References
+Leon A. Gatys, Alexander S. Ecker, Matthias Bethge (2015). [A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576). arXiv preprint arXiv:1508.06576
