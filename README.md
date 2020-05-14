@@ -14,8 +14,13 @@ I have used VGG19 as my baseline model. The features required to obtain the styl
 
 
 ## Results Obtained
+### Content Image
+![](Content.png)
+### Style Images
+<img src ='Style.jpg' width = 200>      ![](Style_1.png)
 
-
+### Generated Images
+![](Output_1.png)        ![](Output_2.png)
 
 
 
