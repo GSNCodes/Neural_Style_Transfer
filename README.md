@@ -10,7 +10,7 @@ Neural style transfer involves the transfer of a style of an image to another im
 
 I have used VGG19 as my baseline model. The features required to obtain the style and content from correspoding images have been obtained from the convolutional layers present in this model. To learn in depth about Neural Style Transfer, take a look at the link above.
 
-
+Both PyTorch and TensorFlow implementation are available and can be used as required.
 
 
 ## Results Obtained
@@ -31,4 +31,6 @@ Happy Learning People ! Keep chasing your dreams ! ⭐️
 
 
 ## References
-Leon A. Gatys, Alexander S. Ecker, Matthias Bethge (2015). [A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576). arXiv preprint arXiv:1508.06576
+1) Leon A. Gatys, Alexander S. Ecker, Matthias Bethge (2015). [A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576). arXiv preprint arXiv:1508.06576
+
+2) [Image Style Transfer Using Convolutional Neural Networks](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf)
